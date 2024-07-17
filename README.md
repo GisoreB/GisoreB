@@ -4,13 +4,13 @@
   flutter , javascript.
 - I develop cutting-edge mobile apps and craft stunning websites, a service I offer across various platforms. Much like how a unique product can continuously make sales, my expertise in mobile app development and web design consistently delivers top-notch results.
 
-My Services :
-📱 Mobile App Development
-🌍 Web Design &amp; Development
-🚀 App Growth Strategies
-🔍 App Store Optimization and more!
-
-If you're looking to elevate your online presence and attract clients, I'm here to help with my expertise in Mobile App Development, Web Design, App Growth Strategies, and App Store Optimization.  
+-  My Services :
+  📱 Mobile App Development
+  🌍 Web Design &amp; Development
+  🚀 App Growth Strategies
+  🔍 App Store Optimization and more!
+  
+- If you're looking to elevate your online presence and attract clients, I'm here to help with my expertise in Mobile App Development, Web Design, App Growth Strategies, and App Store     Optimization.  
 
 
 
